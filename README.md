@@ -1,4 +1,5 @@
 # POLOVNI AUTOMOBILI
 
 Testiranje
+FAIL
 TEST1
